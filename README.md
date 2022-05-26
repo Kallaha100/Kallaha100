@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kallaha100
 - 👀 I’m interested in Drones, Robotics, Webdevelopment, microcontrollers
-- 🌱 I’m currently learning C, C++, javaScritp
+- 🌱 I’m currently learning C, C++, javaScript
 - 📫 How to reach me Discord: Den Sidste Mink#0259
 
 <!---
